@@ -8,8 +8,10 @@ const svg = avatar.generateFace()
 ```
 **声明：**
 
-- 本项目只是在原项目上的一些抽离，使之可以运行在任意平台。
+- 本项目是在原项目基础上进行了一些修改，以便能够在任意平台上运行。
 
-- [ugly-avatar](https://github.com/txstc55/ugly-avatar) ugly-avatar网页版地址
+- 原项目地址：[ugly-avatar](https://github.com/txstc55/ugly-avatar)
 
-- [Xuan Tang](https://github.com/txstc55) 原作者
+- 作者：[Xuan Tang](https://github.com/txstc55)
+
+- 如有任何问题，请联系原作者。

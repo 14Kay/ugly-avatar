@@ -1,7 +1,7 @@
 {
   "name": "ugly-avatar",
-  "version": "1.0.0",
-  "description": "g",
+  "version": "1.0.3",
+  "description": "generate ugly avatar",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
@@ -15,7 +15,7 @@
     "ugly-face"
   ],
   "author": "14k",
-  "license": "MIT",
+  "license": "CC BY-NC 4.0",
   "bugs": {
     "url": "https://github.com/14kay/ugly-avatar/issues"
   },

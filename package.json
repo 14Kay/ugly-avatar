@@ -1,0 +1,23 @@
+{
+  "name": "ugly-avatar",
+  "version": "1.0.0",
+  "description": "g",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14kay/ugly-avatar.git"
+  },
+  "keywords": [
+    "ugly-avatar",
+    "ugly-face"
+  ],
+  "author": "14k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/14kay/ugly-avatar/issues"
+  },
+  "homepage": "https://github.com/14kay/ugly-avatar#readme"
+}
